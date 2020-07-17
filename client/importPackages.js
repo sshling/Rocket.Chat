@@ -85,7 +85,6 @@ import '../app/nrr';
 import '../app/meteor-accounts-saml/client';
 import '../app/e2e/client';
 import '../app/blockstack/client';
-import '../app/version-check/client';
 import '../app/search/client';
 import '../app/chatpal-search/client';
 import '../app/lazy-load';
