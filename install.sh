@@ -28,3 +28,4 @@ tar zxf rocket.chat.tgz  &&  rm rocket.chat.tgz rocket.chat.tgz.asc
 cd $ROOTPATH/bundle/programs/server
 npm install
 pm2 startOrRestart $ROOTPATH/current/$PM2FILE
+# test
